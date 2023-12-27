@@ -1,3 +1,6 @@
+vgcore.*
+*.out
+
 # Prerequisites
 *.d
 
